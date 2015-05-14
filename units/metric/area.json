@@ -1,0 +1,1 @@
+[{"name":"square millimeter","s":"mm^2","ref":null},{"name":"square centimeter","s":"cm^2","ref":"100 mm^2"},{"name":"square decimeter","s":"dm^2","ref":"100 cm^2"},{"name":"square meter","s":"m^2","ref":"100 dm^2"},{"name":"are","s":"dam^2","ref":"100 m^2"},{"name":"hectare","s":"ha","ref":"100 dam^2"},{"name":"square kilometer","s":"km^2","ref":"100 ha"}]
