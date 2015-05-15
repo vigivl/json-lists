@@ -1,0 +1,1 @@
+[{"name":"milligram","s":"mg","ref":null},{"name":"centigram","s":"cg","ref":"10 mg"},{"name":"decigram","s":"dg","ref":"10 cg"},{"name":"gram","s":"g","ref":"10 dg"},{"name":"dekagram","s":"dag","ref":"10 g"},{"name":"hectogram","s":"hg","ref":"100 g"},{"name":"kilogram","s":"kg","ref":"1000 g"},{"name":"ton","s":"t","ref":"1000 kg"}]
